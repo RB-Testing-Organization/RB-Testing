@@ -1,0 +1,25 @@
+{
+  "name": "rb-testing",
+  "version": "1.0.0",
+  "description": "\"# RB-Testing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node ./src/server.js",
+    "build": "echo \"Build successful\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RB-Developer10/RB-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RB-Developer10/RB-Testing/issues"
+  },
+  "homepage": "https://github.com/RB-Developer10/RB-Testing#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
