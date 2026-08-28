@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node --test",
     "start": "node ./src/server.js",
-    "build": "echo \"Build successful\""
+    "build": "exit 1"
   },
   "repository": {
     "type": "git",
